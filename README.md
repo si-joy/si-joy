@@ -1,6 +1,6 @@
 # Hi there, I'm Soibul Islam Joy 👋
 
-### 💻 Full-Stack Web Developer | Django & Python | Webflow & CMS Specialist
+### 💻 Python & Django Developer | PostgreSQL | Webflow & CMS
 
 I build full-stack web applications, responsive websites, and custom CMS solutions that solve real-world problems. My experience spans Python and Django development, Webflow and Kajabi website customization, database management, and workflow automation. I'm passionate about building practical digital solutions, integrating AI, and continuously improving my software development skills.
 
@@ -12,33 +12,24 @@ I build full-stack web applications, responsive websites, and custom CMS solutio
 
 ---
 
-### 🚀 Tech Stack
+### 🛠️ Tech Stack
 
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Databases & Tools**
+**Database & Development Tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Automation & AI**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AI](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**CMS & Website Platforms**
+**Website Platforms & CMS**
 
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
 ![Kajabi](https://img.shields.io/badge/Kajabi-292929?style=for-the-badge&logoColor=white)
-![CMS](https://img.shields.io/badge/Custom_CMS-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 **Web Development & Customization**
 - Responsive website development
