@@ -92,10 +92,9 @@ I build full-stack web applications, responsive websites, and custom CMS solutio
 
 I'm always interested in learning, collaborating, and building useful software.
 
-- 🌐 **Portfolio:** [Visit My Website](http://si-joy.webflow.io/)
-- 💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/si-joy-934116415/)
-- 📧 **Email:** sijoybdcall@gmail.com
-- 🐙 **GitHub:** [@si-joy](https://github.com/si-joy)
+* 🌐 **Portfolio:** <a href="http://si-joy.webflow.io/" target="_blank">Visit My Website</a>
+* 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/si-joy-934116415/" target="_blank">Connect With Me</a>
+* 📧 **Email:** <a href="mailto:sijoybdcall@gmail.com">sijoybdcall@gmail.com</a>
 
 ---
 
