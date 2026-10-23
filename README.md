@@ -1,8 +1,8 @@
 # Hi there, I'm Soibul Islam Joy 👋
 
-### 💻 Full-Stack Web Developer | Python & Django | Automation Enthusiast
+### 💻 Full-Stack Web Developer | Django & Python | Webflow & CMS Specialist
 
-I build practical web applications, management systems, and automation solutions that solve real-world problems. I'm passionate about backend development, database design, AI integration, and continuously learning modern technologies.
+I build full-stack web applications, responsive websites, and custom CMS solutions that solve real-world problems. My experience spans Python and Django development, Webflow and Kajabi website customization, database management, and workflow automation. I'm passionate about building practical digital solutions, integrating AI, and continuously improving my software development skills.
 
 - 🔭 Currently building full-stack web applications and management systems
 - 🌱 Learning advanced software engineering, API development, and AI integration
@@ -34,35 +34,57 @@ I build practical web applications, management systems, and automation solutions
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![AI](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+**CMS & Website Platforms**
+
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+![Kajabi](https://img.shields.io/badge/Kajabi-292929?style=for-the-badge&logoColor=white)
+![CMS](https://img.shields.io/badge/Custom_CMS-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+**Web Development & Customization**
+- Responsive website development
+- Custom CMS implementation and customization
+- Website maintenance and content management
+- Frontend customization and third-party integrations
+
+---
+
+### 🚀 What I Do
+
+- 💻 **Full-Stack Development:** Building web applications with Python, Django, JavaScript, and PostgreSQL.
+- 🌐 **Webflow & CMS Development:** Creating, customizing, and maintaining websites using Webflow, Kajabi, and other CMS platforms.
+- ⚙️ **Workflow Automation:** Exploring automation tools, scripts, and integrations to streamline repetitive tasks.
+- 🤖 **AI Integration:** Learning to integrate AI capabilities into practical web applications.
+- 🗄️ **Database Management:** Designing and working with relational databases such as PostgreSQL and MySQL.
+
 ---
 
 ### 📌 Featured Projects
 
-**🏢 Management Systems**
-- Building dashboard-driven applications for managing business operations and workflows.
-- Focus: CRUD operations, authentication, database design, and reporting.
+**🚀 OrderPilot — Order Management System**
+- A web-based management system designed to streamline order processing and business operations.
+- **Tech Stack:** Python, Django, PostgreSQL
 
-**🛒 Full-Stack E-commerce**
-- Developing e-commerce solutions with product management, orders, and database-backed functionality.
-- Focus: Django, PostgreSQL, security, and production-ready architecture.
-
-**⚙️ Workflow Automation**
-- Exploring automation scripts and AI-powered integrations to reduce repetitive tasks.
-
-> Replace these descriptions with links to your actual repositories as the projects become ready to showcase.
+**🌾 Rice Mill Management System**
+- A management application designed to organize rice mill operations, inventory, and business records.
+- **Tech Stack:** Python, Django, PostgreSQL
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=si-joy&show_icons=true&theme=tokyonight&hide_border=true" alt="Joy's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=si-joy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=si-joy&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr align="center" style="border: none;">
+    <td align="center" width="33%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=si-joy&show_icons=true&theme=tokyonight&hide_border=true" alt="Joy's GitHub Stats" width="100%" />
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=si-joy&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="100%" />
+    </td>
+    <td align="center" width="33%" style="border: none;">
+      <img src="https://streak-stats.demolab.com?user=si-joy&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,9 +92,9 @@ I build practical web applications, management systems, and automation solutions
 
 I'm always interested in learning, collaborating, and building useful software.
 
-- 🌐 **Portfolio:** [Visit My Website](https://your-portfolio-url.com)
-- 💼 **LinkedIn:** [Connect With Me](https://linkedin.com/in/your-profile)
-- 📧 **Email:** your-email@example.com
+- 🌐 **Portfolio:** [Visit My Website](http://si-joy.webflow.io/)
+- 💼 **LinkedIn:** [Connect With Me](https://www.linkedin.com/in/si-joy-934116415/)
+- 📧 **Email:** sijoybdcall@gmail.com
 - 🐙 **GitHub:** [@si-joy](https://github.com/si-joy)
 
 ---
